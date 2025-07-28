@@ -8,6 +8,16 @@
 ---
 
 ## Featured Projects
+### 🔹 Vehicle Tracking System
+A Java-based project for managing and tracking vehicle maintenance records.  
+[View Repository](https://github.com/AltunbasYusuf/Vehicle-Tracking-System)
+
+### 🔹 Kuzey Isı Mühendislik Website
+A simple company website developed with **HTML/CSS**.  
+![View Repository](https://github.com/AltunbasYusuf/Kuzey-Isi-Muhendislik-Dogalgaz-Adana-website)
+![View Website]([https://github.com/USERNAME/Kuzey-Isi-Muhendislik-Dogalgaz-Adana-website](https://kuzeyisidogalgaz.com.tr/
+))
+
 ### 🔹 Dynamic Programming Travel Agency Project
 A Java project that optimizes city tour planning using **Dynamic Programming**.  
 [View Repository](https://github.com/AltunbasYusuf/Dynamic-Programming-Travel-Agency-Project)
@@ -15,16 +25,6 @@ A Java project that optimizes city tour planning using **Dynamic Programming**.
 ### 🔹 Greedy Cashier System
 A Java system that minimizes cashier operation costs using a **Greedy Algorithm** approach.  
 [View Repository](https://github.com/AltunbasYusuf/Greedy-Cashier-System)
-
-### 🔹 Vehicle Tracking System
-A Java-based project for managing and tracking vehicle maintenance records.  
-[View Repository](https://github.com/AltunbasYusuf/Vehicle-Tracking-System)
-
-### 🔹 Kuzey Isı Mühendislik Website
-A simple company website developed with **HTML/CSS**.  
-[View Repository](https://github.com/AltunbasYusuf/Kuzey-Isi-Muhendislik-Dogalgaz-Adana-website)
-[View Website]([https://github.com/USERNAME/Kuzey-Isi-Muhendislik-Dogalgaz-Adana-website](https://kuzeyisidogalgaz.com.tr/
-))
 
 
 ---
@@ -46,4 +46,3 @@ A simple company website developed with **HTML/CSS**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-altunba%C5%9F-68637b341/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufaltynbas@gmail.com)
 
-⭐️ I love contributing to open-source projects and building algorithm-focused applications!
