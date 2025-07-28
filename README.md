@@ -37,9 +37,30 @@ A Java system that minimizes cashier operation costs using a **Greedy Algorithm*
 ---
 
 ## GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=AltunbasYusuf&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltunbasYusuf&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AltunbasYusuf&theme=darkhub&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
+---
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AltunbasYusuf&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&card_width=490" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltunbasYusuf&layout=compact&theme=dark&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img title="🔥 Contribution Streak" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AltunbasYusuf&theme=dark&hide_border=true" />
+  </a>
+</p>
 ---
 
 ## Contact Me
