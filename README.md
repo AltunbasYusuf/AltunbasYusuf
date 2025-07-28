@@ -10,20 +10,22 @@
 ## Featured Projects
 ### 🔹 Dynamic Programming Travel Agency Project
 A Java project that optimizes city tour planning using **Dynamic Programming**.  
-[View Repository](https://github.com/USERNAME/Dynamic-Programming-Travel-Agency-Project)
+[View Repository](https://github.com/AltunbasYusuf/Dynamic-Programming-Travel-Agency-Project)
 
 ### 🔹 Greedy Cashier System
 A Java system that minimizes cashier operation costs using a **Greedy Algorithm** approach.  
-[View Repository](https://github.com/USERNAME/Greedy-Cashier-System)
+[View Repository](https://github.com/AltunbasYusuf/Greedy-Cashier-System)
 
 ### 🔹 Vehicle Tracking System
 A Java-based project for managing and tracking vehicle maintenance records.  
-[View Repository](https://github.com/USERNAME/Vehicle-Tracking-System)
+[View Repository](https://github.com/AltunbasYusuf/Vehicle-Tracking-System)
 
 ### 🔹 Kuzey Isı Mühendislik Website
 A simple company website developed with **HTML/CSS**.  
-[View Repository](https://github.com/USERNAME/Kuzey-Isi-Muhendislik-Dogalgaz-Adana-website)
-https://kuzeyisidogalgaz.com.tr/
+[View Repository](https://github.com/AltunbasYusuf/Kuzey-Isi-Muhendislik-Dogalgaz-Adana-website)
+[View Website]([https://github.com/USERNAME/Kuzey-Isi-Muhendislik-Dogalgaz-Adana-website](https://kuzeyisidogalgaz.com.tr/
+))
+
 
 ---
 
