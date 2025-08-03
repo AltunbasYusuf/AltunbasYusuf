@@ -24,7 +24,7 @@ A simple company website developed with **HTML/CSS**.
 
 ### 🔹 B+ Tree University Search Project
 C program that builds a B+ Tree from YÖK Atlas university data using either incremental insertion or bulk loading. External sorting organizes records before bulk loading, enabling efficient B+ Tree construction and fast search of universities.
-[View Repository](https://github.com/AltunbasYusuf/Greedy-Cashier-System](https://github.com/AltunbasYusuf/yok-atlas-bplus-tree-search.git))
+[View Repository](https://github.com/AltunbasYusuf/yok-atlas-bplus-tree-search.git)
 
 ### 🔹 Dynamic Programming Travel Agency Project
 A Java project that optimizes city tour planning using **Dynamic Programming**.  
