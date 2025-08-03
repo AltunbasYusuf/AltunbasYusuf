@@ -9,8 +9,12 @@
 
 ## Featured Projects
 ### 🔹 Vehicle Tracking System
-A Java-based project for managing and tracking vehicle maintenance records.  
+A robust, Java-based vehicle management system designed to track fuel costs, CO2 emissions, and service history. The core backend is complete, and current development is focused on the full-stack mobile application to provide a seamless user experience.
 [View Repository](https://github.com/AltunbasYusuf/Vehicle-Tracking-System)
+
+---
+
+## Projects
 
 ### 🔹 Kuzey Isı Mühendislik Website
 A simple company website developed with **HTML/CSS**.  
