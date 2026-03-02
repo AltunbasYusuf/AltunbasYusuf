@@ -5,7 +5,7 @@
 - 🔬 **Undergraduate Researcher** at a **TÜBİTAK** project, focusing on Medical Imaging and Deep Learning (U-Net).
 - 🛠️ **Backend & Platform Engineering Enthusiast**: Passionate about scalable architectures, CI/CD pipelines, and cloud-native development.
 - 🎯 Currently focusing on **DevOps, Containerization (Docker & Kubernetes), and Microservices**.
-
+- My portfolio: https://yusufaltunbas.com/
 ---
 
 ## 🌟 Featured Projects
